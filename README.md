@@ -1,4 +1,4 @@
-# Amazon_Superstore_Project
+# Amazon_Superstore_Project_Using-PowerBI
 > **This is a Power BI Project on Amazon Global Superstore with Lot of Insights In Visualization Format.**
 > In this Amazon sales project utilized advanced analytics to extract actionable insights from Amazon sales data. Using Power BI and EXCEL, we analyzed sales performance, customer behavior, and inventory management to optimize strategies. Our efforts resulted in double-digit revenue growth, enhanced market positioning, and streamlined operations. As a key team member, I contributed to data modeling, dashboard design, and visualization, driving data-driven decision-making. Let's connect to discuss how data can empower your business!
 > **Skills**:
